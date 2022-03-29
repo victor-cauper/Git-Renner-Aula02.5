@@ -26,4 +26,4 @@ aprender a programar, mas dessa vez na linguagem Python.
  - RAM: 2x8gb (esqueci a fabricante kkk)
  - GPU: GeForce GTX 1660 Ti Zotac
 
-#Feature2
+#Feature2:
