@@ -10,3 +10,12 @@ aprovado novamente no ENEM, dessa vez sem impedimentos.
 - Passei por 3 cursos diferentes no ensino superior, até me achar e finalmente me graduar na 3a tentativa.
 - Sou apaixonado por cozinha, preparar refeições com ingredientes inusitados é uma das minhas coisas favoritas.
 - Passo boa parte do meu tempo livre com jogos ou filmes.
+
+## Minha história como Programador:
+- Um dos cursos pelo qual passei na minha caminhada do ensino superior foi ADS - Análise e Desenvolvimento de Sistemas, nos
+anos de 2018 e 2019, quando decidi trocar de curso para Gestão de TI.
+- Na época aprendi lógica de programação em C, desenvolvimento web com HTML e CSS, e, brevemente, lógica de programação orientada a objeto em Java.
+- Contudo, desde então, acabei me distanciando da área de programação, adentrando na área de BI, com Power BI e de dados, em
+geral, com SQL.
+- Por fim, após entrar no prgorama de formação de dados Renner/Cesar, voltei, quase 4 anos depois, a ter interesse e a 
+aprender a programar, mas dessa vez na linguagem Python.
