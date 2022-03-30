@@ -10,3 +10,10 @@ aprovado novamente no ENEM, dessa vez sem impedimentos.
 - Passei por 3 cursos diferentes no ensino superior, até me achar e finalmente me graduar na 3a tentativa.
 - Sou apaixonado por cozinha, preparar refeições com ingredientes inusitados é uma das minhas coisas favoritas.
 - Passo boa parte do meu tempo livre com jogos ou filmes.
+
+## Informações do meu PC:
+- Meu PC é um Desktop multiuso, com as seguintes specs:
+ - CPU: Ryzen 5 2600x
+ - Mobo: Gigabyte B450M Gaming
+ - RAM: 2x8gb (esqueci a fabricante kkk)
+ - GPU: GeForce GTX 1660 Ti Zotac
