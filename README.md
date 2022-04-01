@@ -19,6 +19,7 @@ anos de 2018 e 2019, quando decidi trocar de curso para Gestão de TI.
 geral, com SQL.
 - Por fim, após entrar no prgorama de formação de dados Renner/Cesar, voltei, quase 4 anos depois, a ter interesse e a 
 aprender a programar, mas dessa vez na linguagem Python.
+
 ## Informações do meu PC:
 - Meu PC é um Desktop multiuso, com as seguintes specs:
  - CPU: Ryzen 5 2600x
