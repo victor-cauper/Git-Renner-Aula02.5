@@ -26,8 +26,6 @@ aprender a programar, mas dessa vez na linguagem Python.
  - Mobo: Gigabyte B450M Gaming
  - RAM: 2x8gb (esqueci a fabricante kkk)
  - GPU: GeForce GTX 1660 Ti Zotac
-<<<<<<< HEAD
 
-# Feature 2 
-=======
->>>>>>> 7dba09c9e66a03530f2a39e89182ee79824b86b8
+
+# Feature 2
